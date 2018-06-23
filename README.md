@@ -12,4 +12,6 @@
 * Se por curiosidade deseja testá-la acione o botão vermelho no canto esquerdo do circuito!
 
 ![img](https://github.com/ClaitonDenardi/5Bit-Multiplier.circ/blob/master/img1.PNG)
+![img](https://github.com/ClaitonDenardi/5Bit-Multiplier.circ/blob/master/img2.PNG)
+![img](https://github.com/ClaitonDenardi/5Bit-Multiplier.circ/blob/master/img3.PNG)
 
