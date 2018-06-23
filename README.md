@@ -11,6 +11,6 @@
 * Função de "Complemento de 2" = "Operações com números negativos" -> NÃO FUNCIONAL
 * Se por curiosidade deseja testa-la acione o botão vermelho no canto esquerdo do circuito!
 
-![Figure](file://C:\Users\Claiton\Desktop\img1.png "")   
+<img src="C:\Users\Claiton\Desktop\img1.png" alt> 
 
 
