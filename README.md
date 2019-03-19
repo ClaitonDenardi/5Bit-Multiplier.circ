@@ -1,5 +1,5 @@
 
-# Gerador de metadados em formato .CSV padrão ISAD(Simplificado)
+# Trabalho da disciplina de circuitos digitais
 * Circuito lógico implementado no Logisim
 * Multiplicador de 5 bits com displays de 7 segmentos
 * Disciplina de Circuitos Digitais
